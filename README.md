@@ -6,4 +6,4 @@ The purpose of this project is to clean data, and join together tables of countr
 John: Education
 Josh: Gender
 Amy: Average Temperature
-Nabila: Crime
+Nabila: Salary

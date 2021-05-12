@@ -12,10 +12,12 @@ Education Report
 The sources of data that you will extract from.
 I extracted all data in the form of a csv from the following two sources:
 https://www.kaggle.com/mathurinache/world-happiness-report-20152021
+
 For the above link, I used the 2019 happiness report.
 
 https://data.oecd.org/eduatt/adult-education-level.htm#indicator-chart 
 The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+
 Renamed columns in both csv’s in excel
 	The data all fits nicely into rows and columns so it is relational
 Sorted the country column of the happiness csv alphabetically. Treated it’s rank on the happiness sheet as it’s primary key. Used the filter in excel to filter the years to just 2019 column
